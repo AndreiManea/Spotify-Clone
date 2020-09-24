@@ -6,3 +6,4 @@
 <p> <strong> Material UI </strong> was used for the <strong>Styled Components</strong> it provides ( <strong> icons, Grid, Slider </strong> ). </p>
 <p> <strong> Flexbox, CSS </strong> and <strong> BEM </strong> were used for the structuring and styling of the website. </p>
 <p> <strong> Deployment </strong> has been done through <strong>FireBase</strong>.</p>
+<p> <strong> Live link: </strong> https://spotify-clone-a04f0.web.app/  
